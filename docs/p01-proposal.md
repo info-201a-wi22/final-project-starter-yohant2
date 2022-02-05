@@ -30,10 +30,10 @@ Climate change is when changes occur in weather in a region or our global weathe
 - Journalists and researchers who use this project. Politics who change policies depending on this project.
 
 ##### Indirect Stakeholders:
-    People who read the articles that referenced this project and people who live under policies that are inspired by this project.
+- People who read the articles that referenced this project and people who live under policies that are inspired by this project.
 
 #### Harms:
-  - In the process of searching and analyzing, we might end up finding the data that does not have a credible source. Our immature data analyzing skills might also conduct misinformation.
+In the process of searching and analyzing we might end up finding the data that does not have a credible source.Our immature data analyzing skills might also conduct misinformation.
 
 ##### Benefits:
    - We would be able to understand what causes climate change and how it affects different states in the U.S.
@@ -59,7 +59,7 @@ The first data we found and that we would work with consists of two different fi
 We found this data on kaggle.com which the owner is a researcher and founder of  Space Science And Climate Observation Initiative. The data were gathered from “Earth Observing System Data and Information System” (EOSDIS), created by the owner recently on 10/2021.  We don’t truly know that the data is 100% credible, but based on the information source and the data provided in the csv file, we believe it would be sufficient to answer our questions.
 
 #### Data Size:
-   	This data has around 1000 observations and more than 45 variables, where we would only be using around 20 of the variables including the type of natural disasters that have occured, the damages they have caused, location, date, etc.
+This data has around 1000 observations and more than 45 variables, where we would only be using around 20 of the variables including the type of natural disasters that have occured, the damages they have caused, location, date, etc.
 
 **Second Data** : [Contiguous U.S. Statewide Average Temperature](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/mapping/110/tavg/202112/12)
 This data contains the monthly average temperature of each state in the United States from **1895 to 2021**. This could help us prove climate change by showing the trends of increasing temperature in the U.S.. We can also use the change in temperature to learn the intensity of the current temperature change.
@@ -68,7 +68,7 @@ This data contains the monthly average temperature of each state in the United S
 This data was created by the National Centers For Environmental Information (NCEI), which is “the Nation’s leading authority for environmental data, and manages one of the largest archives of atmospheric, coastal, geophysical, and oceanic research in the world” according to their About page. Therefore the source is credible and inclusive enough for us to address our questions.
 
 #### Data Size:
-	This data consists of around 70k observations and 6 variables. Indicating the date, temperature in fahrenheit, ranking of the year, anomaly, etc.
+this data consists of around 70k observations and 6 variables. Indicating the date, temperature in fahrenheit, ranking of the year, anomaly, etc.
 
 
   5.0 Expected Implications:
@@ -79,12 +79,15 @@ This data was created by the National Centers For Environmental Information (NCE
   ##### 6.0 Limitations:
   The first limitation of the project that we need to solve would be the credibility of our datasets. Verifying the credibility of the source would be our first task in order to analyze and present the data correctly without spreading misinformation. The second limitation would be the visualization of the data. As we've gathered a large amount of data that represent different meanings in real life, we would need to come up with various ways to visualize the data without losing their meaning. We would also need to address the problem that we might not have enough skill in R and data visualization and analysis which might result in insufficient or even incorrect data visualization. This would be the most important limitation to address currently. We expect each of us would learn something new along with the progress of the project which would eventually allow us to show the data in our desired ways.
 
-  Acknowledgements:
+  #### Acknowledgements:
   We would like to acknowledge each other for working on this project and helping each other to fulfil the requirements of this project. We also would like to thank our teacher assistance (TA) for helping us understand the specification of the project with patience and kindness.  
 
   #### References:
-  Rana, S. (2020, September 16). Global climate change :earth surface temperature. Kaggle. Retrieved February 4, 2022, from https://www.kaggle.com/sohelranaccselab/global-climate-change/tasks
-  Dincer, B. (2021, October 10). All natural disasters 1900-2021 / eosdis. Kaggle. Retrieved February 4, 2022, from https://www.kaggle.com/brsdincer/all-natural-disasters-19002021-eosdis
+Rana, S. (2020, September 16). Global climate change :earth surface temperature. Kaggle. Retrieved February 4, 2022, from https://www.kaggle.com/sohelranaccselab/global-climate-change/tasks
+
+Dincer, B. (2021, October 10). All natural disasters 1900-2021 / eosdis. Kaggle. Retrieved February 4, 2022, from https://www.kaggle.com/brsdincer/all-natural-disasters-19002021-eosdis
+
+Photos: How climate change is transforming United State . Canadian Geographic. (2018, July 26). Retrieved February 5, 2022, from https://www.canadiangeographic.ca/article/photos-how-climate-change-transforming-unitedstate  
 
 
 
